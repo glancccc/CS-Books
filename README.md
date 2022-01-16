@@ -26,7 +26,7 @@
 
 #### 4、⭐计算机经典图书榜单Top50，<a href="./Doc/当当Top50.md" target="_blank">点此一键免费获取</a> 
 
-#### 5、😜计算机优秀编程视频与吐血整理的各类学习路线， <a href="https://github.com/awesome-cs-community/developer-roadmap-zh-CN" target="_blank">点此查看</a>
+#### 5、😜发现一个相当不错的计算机各类种语言&学科学习路线仓库， <a href="https://github.com/awesome-cs-community/developer-roadmap-zh-CN" target="_blank">点此查看</a>
 
 #### 6、:books:超过1000本！计算机经典书籍PDF分享
 
