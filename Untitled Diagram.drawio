@@ -1,38 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T09:06:31.003Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="bNOHx3-8GHEmOdladFDZ" version="20.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-15T09:18:48.084Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ph9uBsS3CWcvdvIyTrCb" version="20.1.1" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="395" dy="212" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="街区边界矢量数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="179" y="110" width="100" height="30" as="geometry" />
+          <mxGeometry x="179" y="107" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oosQADwzrR9jK9GOLgym-2" value="矢量道路面数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="167" width="90" height="30" as="geometry" />
+          <mxGeometry x="250" y="168" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oosQADwzrR9jK9GOLgym-3" value="道路约束三角网" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="210" width="90" height="30" as="geometry" />
+          <mxGeometry x="250" y="220" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oosQADwzrR9jK9GOLgym-5" value="三角元分类" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="266" width="70" height="30" as="geometry" />
+          <mxGeometry x="180" y="274" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oosQADwzrR9jK9GOLgym-6" value="探测树构建" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="266" width="70" height="30" as="geometry" />
+          <mxGeometry x="260" y="274" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oosQADwzrR9jK9GOLgym-7" value="生成中轴线" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="266" width="70" height="30" as="geometry" />
+          <mxGeometry x="340" y="274" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oosQADwzrR9jK9GOLgym-9" value="细粒度道路网" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="377" width="90" height="30" as="geometry" />
+          <mxGeometry x="250" y="383" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oosQADwzrR9jK9GOLgym-10" value="语义补充" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="208" y="442" width="66" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oosQADwzrR9jK9GOLgym-13" value="道路融合" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="319" y="433" width="66" height="30" as="geometry" />
+          <mxGeometry x="319" y="442" width="66" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oosQADwzrR9jK9GOLgym-15" value="拓展后的城市道路网" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="235" y="497" width="120" height="30" as="geometry" />
+        <mxCell id="oosQADwzrR9jK9GOLgym-15" value="拓展后的道路网" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="245" y="512" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oosQADwzrR9jK9GOLgym-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="oosQADwzrR9jK9GOLgym-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -44,12 +44,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oosQADwzrR9jK9GOLgym-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oosQADwzrR9jK9GOLgym-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="oosQADwzrR9jK9GOLgym-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="150" as="sourcePoint" />
             <mxPoint x="358" y="140" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="358" y="150" />
+              <mxPoint x="360" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -60,15 +60,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oosQADwzrR9jK9GOLgym-20" value="建筑物矢量数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="110" width="100" height="30" as="geometry" />
+          <mxGeometry x="310" y="107" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oosQADwzrR9jK9GOLgym-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oosQADwzrR9jK9GOLgym-3" target="oosQADwzrR9jK9GOLgym-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="250" as="sourcePoint" />
             <mxPoint x="220" y="250" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="295" y="250" />
-              <mxPoint x="215" y="250" />
+              <mxPoint x="295" y="260" />
+              <mxPoint x="215" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -77,8 +77,8 @@
             <mxPoint x="305" y="250" as="sourcePoint" />
             <mxPoint x="225" y="270" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="295" y="250" />
-              <mxPoint x="375" y="250" />
+              <mxPoint x="295" y="260" />
+              <mxPoint x="375" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -99,8 +99,8 @@
             <mxPoint x="295" y="330" as="sourcePoint" />
             <mxPoint x="330" y="290" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="295" y="310" />
-              <mxPoint x="215" y="310" />
+              <mxPoint x="295" y="320" />
+              <mxPoint x="215" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -109,8 +109,8 @@
             <mxPoint x="295" y="330" as="sourcePoint" />
             <mxPoint x="388" y="296" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="295" y="310" />
-              <mxPoint x="375" y="310" />
+              <mxPoint x="295" y="320" />
+              <mxPoint x="375" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -119,8 +119,8 @@
             <mxPoint x="295" y="375" as="sourcePoint" />
             <mxPoint x="215" y="401" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="295" y="417" />
-              <mxPoint x="240" y="417" />
+              <mxPoint x="295" y="420" />
+              <mxPoint x="241" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -129,25 +129,25 @@
             <mxPoint x="305" y="385" as="sourcePoint" />
             <mxPoint x="225.0000000000001" y="417" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="295" y="417" />
-              <mxPoint x="352" y="417" />
+              <mxPoint x="295" y="420" />
+              <mxPoint x="352" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="oosQADwzrR9jK9GOLgym-42" value="街区中轴线" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="331" width="90" height="30" as="geometry" />
+          <mxGeometry x="250" y="337" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oosQADwzrR9jK9GOLgym-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oosQADwzrR9jK9GOLgym-42" target="oosQADwzrR9jK9GOLgym-46">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="370" as="sourcePoint" />
             <mxPoint x="420" y="360" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="423" y="346" />
+              <mxPoint x="423" y="352" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="oosQADwzrR9jK9GOLgym-46" value="几何纠正" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="390" y="377" width="66" height="30" as="geometry" />
+          <mxGeometry x="390" y="383" width="66" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oosQADwzrR9jK9GOLgym-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oosQADwzrR9jK9GOLgym-46" target="oosQADwzrR9jK9GOLgym-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -161,26 +161,44 @@
             <mxPoint x="370" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oosQADwzrR9jK9GOLgym-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oosQADwzrR9jK9GOLgym-10" target="oosQADwzrR9jK9GOLgym-15">
+        <mxCell id="oosQADwzrR9jK9GOLgym-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oosQADwzrR9jK9GOLgym-10" target="oosQADwzrR9jK9GOLgym-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="310" y="400" as="sourcePoint" />
             <mxPoint x="241" y="490" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="241" y="480" />
-              <mxPoint x="280" y="480" />
-              <mxPoint x="295" y="480" />
+              <mxPoint x="241" y="490" />
+              <mxPoint x="295" y="490" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oosQADwzrR9jK9GOLgym-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oosQADwzrR9jK9GOLgym-13" target="oosQADwzrR9jK9GOLgym-15">
+        <mxCell id="oosQADwzrR9jK9GOLgym-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oosQADwzrR9jK9GOLgym-13" target="oosQADwzrR9jK9GOLgym-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="480" as="sourcePoint" />
             <mxPoint x="350" y="490" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="352" y="480" />
-              <mxPoint x="295" y="480" />
+              <mxPoint x="352" y="490" />
+              <mxPoint x="295" y="490" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="oosQADwzrR9jK9GOLgym-55" value="求差" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="265" y="127" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oosQADwzrR9jK9GOLgym-56" value="建网" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="195" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oosQADwzrR9jK9GOLgym-58" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oosQADwzrR9jK9GOLgym-9" target="oosQADwzrR9jK9GOLgym-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="295" y="415" as="sourcePoint" />
+            <mxPoint x="241" y="442" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="295" y="420" />
+              <mxPoint x="241" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oosQADwzrR9jK9GOLgym-59" value="不符合标准路段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="328" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
